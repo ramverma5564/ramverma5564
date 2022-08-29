@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramverma5564
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ramverma5564@gmail.com
 
